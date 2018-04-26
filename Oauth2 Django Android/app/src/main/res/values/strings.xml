@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Claire Authentication</string>
+    <string name="server_client_id">1086741466676-06uboko6816vuq76hec3bb2eacag5a0g.apps.googleusercontent.com</string>
+    <string name="server_name">serverIpOrUrl</string>
+</resources>

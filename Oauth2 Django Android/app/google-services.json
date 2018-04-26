@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "1086741466676",
+    "firebase_url": "https://core-claire-ai.firebaseio.com",
+    "project_id": "core-claire-ai",
+    "storage_bucket": "core-claire-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086741466676:android:6c7ef2672bf23dd9",
+        "android_client_info": {
+          "package_name": "ai.claire.claire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086741466676-f9h8o6ljmdstjjks94fljavbmgm9hqlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.claire.claire",
+            "certificate_hash": "95468bd8423a397de06a8ca54c182493c6b0c68c"
+          }
+        },
+        {
+          "client_id": "1086741466676-06uboko6816vuq76hec3bb2eacag5a0g.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1086741466676-d3itte56sbtshoirnnan26ljqsftb4no.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.claire.claire",
+            "certificate_hash": "499092d2b5553d66997fd4e44dabd965d6c4d028"
+          }
+        },
+        {
+          "client_id": "1086741466676-cfondu1mrcr8e1fuu4n8atpl6btph9qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.claire.claire",
+            "certificate_hash": "cfbeec8282d695e0c6d69f911c410a7341d7831a"
+          }
+        },
+        {
+          "client_id": "1086741466676-dbk6nq12dfkm845etpvbvesf1mf0cieg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.claire.claire",
+            "certificate_hash": "d74fd025bc1bbd36d71a1342b2736d5ac42942e1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkFY35Ety0wDeXvXgqQWCDvgiELNnzKtc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086741466676-06uboko6816vuq76hec3bb2eacag5a0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086741466676:android:e4d7a482edcc2be2",
+        "android_client_info": {
+          "package_name": "ai.claire.claireauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086741466676-fh735h9cf6gko0n0slpb41qr10q4fc4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.claire.claireauthentication",
+            "certificate_hash": "95468bd8423a397de06a8ca54c182493c6b0c68c"
+          }
+        },
+        {
+          "client_id": "1086741466676-06uboko6816vuq76hec3bb2eacag5a0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkFY35Ety0wDeXvXgqQWCDvgiELNnzKtc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086741466676-06uboko6816vuq76hec3bb2eacag5a0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
